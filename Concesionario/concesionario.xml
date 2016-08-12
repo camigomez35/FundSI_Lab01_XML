@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario>
+    <carro>
+        <modelo>Alfa</modelo>
+        <marca> Romeo</marca>
+        <datosTecnicos>
+            <motor>2.0 16V Quadrifoglio (155 Hp)</motor>
+            <PotenciaMaxima>155</PotenciaMaxima>
+        </datosTecnicos>
+        <valor>1000000</valor>
+        <imagen>1.jpg</imagen>
+    </carro>
+  
+    <carro>
+        <modelo>Audi</modelo>
+        <marca>R8</marca>
+        <datosTecnicos>
+            <motor>5.2 FSI V10 quattro (540 Hp) S tronic</motor>
+            <PotenciaMaxima>504</PotenciaMaxima>
+        </datosTecnicos>
+        <valor>5000000000</valor>
+        <imagen>2.jpg</imagen>
+    </carro>
+  
+    <carro>
+        <modelo> BMW </modelo>
+        <marca> X3</marca>
+        <datosTecnicos>
+            <motor>35i (306 Hp) xDrive Automatic</motor>
+            <PotenciaMaxima>306</PotenciaMaxima>
+        </datosTecnicos>
+        <valor>1200000</valor>
+        <imagen>3.jpg</imagen>
+    </carro>
+  
+    <carro>
+        <modelo>Bugatti</modelo>
+        <marca> Chiron</marca>
+        <datosTecnicos>
+            <motor>8.0 W16 (1500 Hp) AWD DSG</motor>
+            <PotenciaMaxima>1500</PotenciaMaxima>
+        </datosTecnicos>
+        <valor>5000000000</valor>
+        <imagen>4.jpg</imagen>
+    </carro>
+  
+    <carro>
+        <modelo>Chevrolet</modelo>
+        <marca> Corvette</marca>
+        <datosTecnicos>
+            <motor>Stingray 6.2 V8 (466 Hp) Automatic</motor>
+            <PotenciaMaxima>466</PotenciaMaxima>
+        </datosTecnicos>
+        <valor>50000000</valor>
+        <imagen>5.jpg</imagen>
+    </carro>
+  
+    <carro>
+        <modelo>Ferrari</modelo>
+        <marca> LaFerrari</marca>
+        <datosTecnicos>
+            <motor>6.3 V12 (963 Hp) Hybrid DCT</motor>
+            <PotenciaMaxima>963</PotenciaMaxima>
+        </datosTecnicos>
+        <valor>50000000</valor>
+        <imagen>6.jpg</imagen>
+    </carro>
+</concesionario>

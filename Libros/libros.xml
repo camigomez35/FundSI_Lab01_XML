@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<libros>
+    <libro>
+        <titulo>Entrevista con el Vampiro</titulo>
+        <autor>Anne Rice</autor>
+        <ISBN>9780345337665</ISBN>
+        <año>1976</año>    
+    </libro>
+    <libro>
+        <titulo>100 años de soledad</titulo>
+        <autor>Gabriel Garcia Marquez</autor>
+        <ISBN>9785267006323</ISBN>
+        <año>1967</año>    
+    </libro>
+    <libro>
+        <titulo>El principito</titulo>
+        <autor>Antoine de Saint-Exupéry</autor>
+        <ISBN>9788995317471</ISBN>
+        <año>1943</año>    
+    </libro>
+    <libro>
+        <titulo>El tunel</titulo>
+        <autor>Ernesto Sabato</autor>
+        <ISBN>9788447311033</ISBN>
+        <año>1948</año>    
+    </libro>
+    <libro>
+        <titulo>Inferno</titulo>
+        <autor>Dan Brown</autor>
+        <ISBN>9782253004561</ISBN>
+        <año>2013</año>    
+    </libro>
+</libros>
